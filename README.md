@@ -31,15 +31,8 @@ CPU Scheduler adalah aplikasi berbasis Python yang memungkinkan pengguna untuk m
    - Hasil akan ditampilkan dalam tabel serta diagram Gantt.
    - Klik "Reset" untuk menghapus semua input.
 
-## Struktur Proyek
-```
-repository/
-│── cpu_scheduler.py  # Skrip utama dengan antarmuka GUI
-│── README.md         # Dokumentasi proyek
-```
-
 ## Lisensi
-[LICENSE]
+[MIT LICENSE](LICENSE)
 
 ## Kontribusi
 Kontribusi sangat diterima! Silakan lakukan pull request atau laporkan issue jika menemukan bug atau memiliki saran perbaikan.
